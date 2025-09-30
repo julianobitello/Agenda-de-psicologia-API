@@ -21,8 +21,8 @@ public class PacienteService {
     }
 
     public Optional<Paciente> buscarPacientesPorCPFouEmail(Paciente paciente) {
-        return pacienteRepository.buscarPorCpf(paciente.getCpf())
-                .or(() -> pacienteRepository.buscarPorEmail(paciente.getEmail()));
+        return pacienteRepository.findByCpf(paciente.getCpf())
+                .or(() -> pacienteRepository.findByEmail(paciente.getEmail()));
     }
 
     public Paciente criarPaciente(Paciente paciente) {
