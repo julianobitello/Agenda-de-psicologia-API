@@ -3,7 +3,7 @@
 Sistema de agendamento de pacientes para clínicas de psicologia, desenvolvido em **Spring Boot** com **PostgreSQL (AWS RDS)**.
 
 ## 🚀 Tecnologias
-- Java 21+
+- Java 17
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
