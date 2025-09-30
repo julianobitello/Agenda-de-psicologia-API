@@ -11,7 +11,7 @@ Sistema de agendamento de pacientes para clínicas de psicologia, desenvolvido e
 
 ## 📌 Funcionalidades (em progresso)
 - [x] CRUD de Pacientes
-- [ ] CRUD de Psicólogos
+- [x] CRUD de Psicólogos
 - [ ] Agendamento de Consultas
 - [ ] Autenticação de Usuários
 
