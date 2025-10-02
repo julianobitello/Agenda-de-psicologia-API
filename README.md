@@ -1,6 +1,6 @@
 # PsicoAgenda 🧠📅
 
-Sistema de agendamento de pacientes para clínicas de psicologia, desenvolvido em **Spring Boot** com **PostgreSQL (AWS RDS)**.
+Sistema de agendamento de pacientes desenvolvido para **psicólogos**, permitindo gerenciar consultas e pacientes de forma simples, com **Spring Boot** e **PostgreSQL (AWS RDS)**.
 
 ## 🚀 Tecnologias
 - Java 17
